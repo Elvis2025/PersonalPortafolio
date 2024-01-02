@@ -1,0 +1,55 @@
+﻿.foto {
+  width: 200px;
+  height: 200px;
+  margin: 2rem 0;
+  border-radius: 50%
+}
+
+.seccion-bienvenida{
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+.seccion-bienvenida h1{
+    margin-bottom: 1rem;
+}
+.seccion-bienvenida p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
+
+.img-dotnet{
+    width: 500px;
+}
+
+.cabecera{
+    font-weight: bold;
+}
+
+.abilidades ul {
+
+    margin-top: 1.5rem;
+    list-style: none;
+    padding-left: 0;
+    
+    align-content: center
+}
+ul li {
+    display: flex;
+    margin-bottom: 0.5rem;
+    text-align: left;
+    margin-left: 1.5rem;
+    align-items: center;
+}
+
+.my-icon{
+    color: green;
+    font-size: 1.8rem;
+   margin-right: 0.65rem;
+
+}
+
+ul{
+    background-color: 
+}
